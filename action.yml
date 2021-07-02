@@ -1,4 +1,4 @@
-name: Docker Deployment
+name: Docker-compose Deployment
 author: Al-waleed Shihadeh <wshihadeh.dev@gmail.com>
 description: A GitHub Action that supports docker-compose and Docker Swarm deployments
 inputs:
